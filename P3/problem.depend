@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650315158 source:c:\users\omnia\downloads\data struct ass\problem 3\problem\main.cpp
+	<iostream>
+	"matrix.h"
+
+1650315636 c:\users\omnia\downloads\data struct ass\problem 3\problem\matrix.h
+	<iostream>
+

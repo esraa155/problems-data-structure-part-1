@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651052896 source:c:\users\omnia\downloads\data struct ass\problem 9\main.cpp
+	<algorithm>
+	<vector>
+	<iomanip>
+	<chrono>
+	<iostream>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<chrono>
+

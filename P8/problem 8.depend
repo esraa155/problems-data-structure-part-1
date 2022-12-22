@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651074337 source:c:\users\omnia\downloads\data struct ass\problem 8\main.cpp
+	<iostream>
+	<chrono>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
